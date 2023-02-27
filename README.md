@@ -1,5 +1,5 @@
 # CropYieldPrediction
-This project aims to design, develop and implement the training model by using different inputs data. The machine will able to learn the features and extract the crop yield from the data by using data mining and data science techniques.
+This project aims to design, develop and implement the training model by using different inputs data. The machine learns the features and extract the crop yield from the data by using data mining and data science techniques.
 
 Algorithms used in this project:
 1. Gradient Boosting Regression, validated by 5 Folds Cross Validation (for crop yield prediction)
